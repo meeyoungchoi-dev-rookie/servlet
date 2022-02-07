@@ -32,3 +32,16 @@
 + + [HttpServletResponse 객체 사용하여 HTTP 응답 메시지 작성](https://unique-wandflower-4cc.notion.site/HttpServletResponse-2466239415c94b5f81733c1d9fd683c5)
 + [HTML로 응답하기](https://www.notion.so/HTTP-HTML-99130290316040d6ab0129686942186b)
 + [API JSON으로 응답하기](https://www.notion.so/HTTP-API-JSON-b073e7a61c4a48c580d6b2b9dff431f8)
+
+# 02월 07일
+## spring
+### 잘된점
++ servlet을 사용하여 회원관리 웹 애플리케이션 만들고 정리
++ jsp를 사용하여 회원관리 웹 애플리케이션 만들고 정리
+
+### 배운점
++ [servlet을 사용하여 회원관리 만든 과정 정리](https://unique-wandflower-4cc.notion.site/servlet-303763931d8f470e89bd7f94788638b0)
++ 자바 코드로 html을 만드는 것은 유지보수하기 매우 힘들다
++ 템플릿 엔진을 사용하면 html 문서에서 필요한 부분에만 코드를 적용하여 동적인 html을 만들수 있다
++ 템플릿 엔진에는 JSP , Thymeleaf , Freemarker , Velocity등이 있다
++ [jsp를 사용하여 회원관리 만든 과정 정리](https://unique-wandflower-4cc.notion.site/JSP-363ae7db26ec4c8ab69e1282231d0e45)
