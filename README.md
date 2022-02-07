@@ -41,6 +41,7 @@
 + 회원관리를 만들때 Repository에 대한 테스트케이스 작성
 
 ### 배운점
++ [회원관리 Repository 테스트 케이스 작성](https://unique-wandflower-4cc.notion.site/b7a0e986f1a4476da028bf250668510c)
 + [servlet을 사용하여 회원관리 만든 과정 정리](https://unique-wandflower-4cc.notion.site/servlet-303763931d8f470e89bd7f94788638b0)
 + 자바 코드로 html을 만드는 것은 유지보수하기 매우 힘들다
 + 템플릿 엔진을 사용하면 html 문서에서 필요한 부분에만 코드를 적용하여 동적인 html을 만들수 있다
