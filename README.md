@@ -38,6 +38,7 @@
 ### 잘된점
 + servlet을 사용하여 회원관리 웹 애플리케이션 만들고 정리
 + jsp를 사용하여 회원관리 웹 애플리케이션 만들고 정리
++ 회원관리를 만들때 Repository에 대한 테스트케이스 작성
 
 ### 배운점
 + [servlet을 사용하여 회원관리 만든 과정 정리](https://unique-wandflower-4cc.notion.site/servlet-303763931d8f470e89bd7f94788638b0)
