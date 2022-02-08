@@ -47,3 +47,17 @@
 + 템플릿 엔진을 사용하면 html 문서에서 필요한 부분에만 코드를 적용하여 동적인 html을 만들수 있다
 + 템플릿 엔진에는 JSP , Thymeleaf , Freemarker , Velocity등이 있다
 + [jsp를 사용하여 회원관리 만든 과정 정리](https://unique-wandflower-4cc.notion.site/JSP-363ae7db26ec4c8ab69e1282231d0e45)
+
+
+# 02월 08일
+## spring
+### 잘된점
++ servlet에 MVC 패턴을 적용하여 회원관리 웹 애플리케이션 개발
+
+### 배운점
++ MVC 패턴으로 분리했을떄 장점
++ Model View Controlle의 역할
++ 포워딩과 리다이렉트 차이
++ JSP에 el태그와 jstl을 사용하여 데이터를 바인딩 시키는 방법
++ [MVC 패턴 정리](https://unique-wandflower-4cc.notion.site/MVC-130e7ece5dc540868c09e4ade94f72e1)
+
