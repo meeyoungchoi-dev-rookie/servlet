@@ -61,3 +61,14 @@
 + JSP에 el태그와 jstl을 사용하여 데이터를 바인딩 시키는 방법
 + [MVC 패턴 정리](https://unique-wandflower-4cc.notion.site/MVC-130e7ece5dc540868c09e4ade94f72e1)
 
+
+# 02월 20일
+## spring - FrontController 패턴
+### 잘된점
++ spring 프론트컨트롤러 도입 배경과 특징에 대한 이해
++ 기존 servlet 코드를 프론트컨트롤러 패턴을 사용하여 리펙토링 진행
+
+### 배운점
++ [프론트컨트롤러 도입 배경과 특징](https://unique-wandflower-4cc.notion.site/1cfb6dbf9be84d98bc88b59d852657f3)
++ [servlet을 프론트컨트롤러 패턴을 사용하여 리펙토링](https://unique-wandflower-4cc.notion.site/v1-1739b92d64a842a4a5da19e813331d5e)
+
