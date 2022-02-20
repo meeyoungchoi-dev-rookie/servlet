@@ -59,13 +59,15 @@ public class RequestHeaderServlet extends HttpServlet {
     private void printHeaders(HttpServletRequest request) {
         System.out.println("--- Headers - start ---");
 
+//        # 방법1.
 //        Enumeration<String> headerNames = request.getHeaderNames();// HTTP 요청 메시지에 있는 모든 헤더 정보를 다 꺼내서 출력한다
 //        while (headerNames.hasMoreElements()) {
 //            String headerName = headerNames.nextElement();
 //            System.out.println(headerName + ":" + headerName);
 //        }
 
-        //헤더 정보 하나만 출력하는 경우
+//       # 방법2.
+//      헤더 정보 하나만 출력하는 경우
         request.getHeader("host");
 
         request.getHeaderNames().asIterator()
