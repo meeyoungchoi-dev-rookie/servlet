@@ -80,3 +80,16 @@
 
 ### 배운점
 + [프론트컨트롤러 패턴을 사용하여 view를 분리하는 과정 정리](https://unique-wandflower-4cc.notion.site/VIEW-aadfcc80c4a340be990aaca455362323)
+
+
+# 02월 25일
+## spring - FrontControllerServlet view 렌더링 코드 분리
+### 잘된점
++ FrontControllerServlet에서 view 렌더링 처리
++ 컨트롤러에서는 view 페이지 경로만 생성하여 반환
++ 모델을 사용하여 컨트롤러에서 서블릿 의존성 제거
++ FrontControllerServlet에서 view 포워딩 코드 중복 제거
+
+### 배운점
++ [프론트컨트롤러서블릿 view 렌더링 코드 분리](https://unique-wandflower-4cc.notion.site/VIEW-aadfcc80c4a340be990aaca455362323)
++ [모델을 통한 서블릿 의존성 제거 및 뷰 포워딩 코드 중복 제거](https://unique-wandflower-4cc.notion.site/Model-V3-de6d205739474fb4967ff62b9f73c5b8)
