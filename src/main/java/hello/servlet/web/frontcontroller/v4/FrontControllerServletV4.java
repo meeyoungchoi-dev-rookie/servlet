@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-@WebServlet(name = "frontControllerServletV4", urlPatterns = "/frontcontroller/v4/*")
+@WebServlet(name = "frontControllerServletV4", urlPatterns = "/front-controller/v4/*")
 public class FrontControllerServletV4 extends HttpServlet {
 
     private Map<String, ControllerV4> controllerMap = new HashMap<>();
@@ -32,6 +32,7 @@ public class FrontControllerServletV4 extends HttpServlet {
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
         String requestURI = request.getRequestURI();
+        System.out.println("url: " + requestURI);
         ControllerV4 controller = controllerMap.get(requestURI);
         if (controller == null) {
             response.setStatus(HttpServletResponse.SC_NOT_FOUND);

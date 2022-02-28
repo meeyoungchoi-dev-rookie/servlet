@@ -22,7 +22,11 @@ public class ControllerV3HandlerAdapter implements MyHandlerAdapter {
 
     @Override
     public ModelView handle(HttpServletRequest request, HttpServletResponse response, Object handler) throws ServletException, IOException {
-        return null;
+        ControllerV3 controller = (ControllerV3) handler;
+        Map<String, String> paramMap = createParamMap(request);
+        ModelView mv = controller.process(paramMap);
+
+        return mv;
     }
 
     private Map<String, String> createParamMap(HttpServletRequest request) {
