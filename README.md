@@ -131,3 +131,14 @@
   
 ### 배운점
 +[프론트 컨트롤러에 핸들러 어댑터 적용](https://unique-wandflower-4cc.notion.site/1-V5-d24a208d4e3f4ab798e7adcd66134b05)
+
+
+# 03월 01일
+## FrontController에 핸들러 매핑과 핸들러 어댑터 적용
+### 잘된점
++ FrontController에 어댑터가 필요한 이유
+  + 다양한 종류의 컨트롤러를 호출할 수 있게 하기 위함
+  + 다양한 형태의 핸들러가 생길수 있고 이메 맞는 핸들러 어댑터를 구현해 놨다
+  + 개발자는 원하는 형태로 컨트롤러를 정의하여 개발할 수 있다
+### 배운점
++ [프론트 컨트롤러에 핸들어 매핑과 핸들러 어댑터 적용과정 정리](https://unique-wandflower-4cc.notion.site/V5-d24a208d4e3f4ab798e7adcd66134b05)
