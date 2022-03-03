@@ -144,3 +144,18 @@
 ### 배운점
 + [프론트 컨트롤러에 핸들어 매핑과 핸들러 어댑터 적용과정 정리](https://unique-wandflower-4cc.notion.site/V5-d24a208d4e3f4ab798e7adcd66134b05)
 + [mvc 프레임워크 만드는 과정 V1 ~ V5 까지 정리](https://unique-wandflower-4cc.notion.site/V5-d24a208d4e3f4ab798e7adcd66134b05)
+
+# 03월 03일
+## spring
+### 잘된점
++ spring mvc 전체 구조 정리
++ 핸들러 매핑과 핸들러 어댑터 개념 정리 및 실습
++ 뷰 리졸버의 역할과 개념 정리 및 실습
+
+### 배운점
++ [spring mvc 전체 구조](https://unique-wandflower-4cc.notion.site/MVC-f8358340bb7e4edaaa561ff206d1351d)
++ [핸들러 매핑과 핸들러 어댑터](https://unique-wandflower-4cc.notion.site/66b9dd9f4eb0486c82ab5dcb4e28b260)
++ [뷰 리졸버](https://unique-wandflower-4cc.notion.site/011642fead53484da05503c701b1f330)
++ [spring mvc 컨트롤러로 변경 V1](https://unique-wandflower-4cc.notion.site/MVC-V1-f21adc58f03e4cf29142b75a0f69c815)
++ [spring mvc 컨트롤러 통합 V2](https://unique-wandflower-4cc.notion.site/MVC-V3-a1438c8a77464e7695bc74019021e771)
++ [spring mvc 컨트롤러 실용적인 방식으로 변경 V3](https://unique-wandflower-4cc.notion.site/MVC-V3-a1438c8a77464e7695bc74019021e771)
